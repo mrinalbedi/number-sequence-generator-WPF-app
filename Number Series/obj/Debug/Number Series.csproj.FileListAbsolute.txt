@@ -1,0 +1,29 @@
+C:\Users\mrina\Desktop\Number Series\Number Series\bin\Debug\Number Series.exe.config
+C:\Users\mrina\Desktop\Number Series\Number Series\bin\Debug\Number Series.exe
+C:\Users\mrina\Desktop\Number Series\Number Series\bin\Debug\Number Series.pdb
+C:\Users\mrina\Desktop\Number Series\Number Series\obj\Debug\Number Series.csprojAssemblyReference.cache
+C:\Users\mrina\Desktop\Number Series\Number Series\obj\Debug\MainWindow.g.cs
+C:\Users\mrina\Desktop\Number Series\Number Series\obj\Debug\App.g.cs
+C:\Users\mrina\Desktop\Number Series\Number Series\obj\Debug\Number Series_MarkupCompile.cache
+C:\Users\mrina\Desktop\Number Series\Number Series\obj\Debug\Number Series_MarkupCompile.lref
+C:\Users\mrina\Desktop\Number Series\Number Series\obj\Debug\MainWindow.baml
+C:\Users\mrina\Desktop\Number Series\Number Series\obj\Debug\Number Series.g.resources
+C:\Users\mrina\Desktop\Number Series\Number Series\obj\Debug\Number_Series.Properties.Resources.resources
+C:\Users\mrina\Desktop\Number Series\Number Series\obj\Debug\Number Series.csproj.GenerateResource.cache
+C:\Users\mrina\Desktop\Number Series\Number Series\obj\Debug\Number Series.exe
+C:\Users\mrina\Desktop\Number Series\Number Series\obj\Debug\Number Series.pdb
+E:\Semester 1\software development\Midterm\Number Series\Number Series\bin\Debug\Number Series.exe.config
+E:\Semester 1\software development\Midterm\Number Series\Number Series\bin\Debug\Number Series.exe
+E:\Semester 1\software development\Midterm\Number Series\Number Series\bin\Debug\Number Series.pdb
+E:\Semester 1\software development\Midterm\Number Series\Number Series\obj\Debug\Number Series.csprojAssemblyReference.cache
+E:\Semester 1\software development\Midterm\Number Series\Number Series\obj\Debug\MainWindow.g.cs
+E:\Semester 1\software development\Midterm\Number Series\Number Series\obj\Debug\App.g.cs
+E:\Semester 1\software development\Midterm\Number Series\Number Series\obj\Debug\Number Series_MarkupCompile.cache
+E:\Semester 1\software development\Midterm\Number Series\Number Series\obj\Debug\Number Series_MarkupCompile.lref
+E:\Semester 1\software development\Midterm\Number Series\Number Series\obj\Debug\MainWindow.baml
+E:\Semester 1\software development\Midterm\Number Series\Number Series\obj\Debug\Number Series.g.resources
+E:\Semester 1\software development\Midterm\Number Series\Number Series\obj\Debug\Number_Series.Properties.Resources.resources
+E:\Semester 1\software development\Midterm\Number Series\Number Series\obj\Debug\Number Series.csproj.GenerateResource.cache
+E:\Semester 1\software development\Midterm\Number Series\Number Series\obj\Debug\Number Series.csproj.CoreCompileInputs.cache
+E:\Semester 1\software development\Midterm\Number Series\Number Series\obj\Debug\Number Series.exe
+E:\Semester 1\software development\Midterm\Number Series\Number Series\obj\Debug\Number Series.pdb
